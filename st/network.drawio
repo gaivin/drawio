@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:13:41.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="DlAHufacuaJUaq6w8Pe9" version="17.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T12:37:22.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MWNkDnxwrzEQmDPI_CIN" version="17.4.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Create">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3E9huD4oho58RNo_yzY4-2" value="&lt;div&gt;Asynchronous threads&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="640" width="360" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-3" target="7mvyjp9xPnYA-74Ss-xC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -43,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-12" value="VLANNetworkIpsValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1330" width="180" height="60" as="geometry" />
+          <mxGeometry x="80" y="1352" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-25" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#FFCE9F;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-18" target="7mvyjp9xPnYA-74Ss-xC-24">
           <mxGeometry relative="1" as="geometry">
@@ -56,7 +59,7 @@
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-26" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-18" target="7mvyjp9xPnYA-74Ss-xC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mvyjp9xPnYA-74Ss-xC-18" value="VLANNetworkUtil.lock&lt;br&gt;And not isVLANApplying" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7mvyjp9xPnYA-74Ss-xC-18" value="VLANNetworkUtil.lock&lt;br&gt;And VLAN is not Applying" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="560" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-24" value="Validate Fail" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -73,7 +76,7 @@
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-27" target="7mvyjp9xPnYA-74Ss-xC-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mvyjp9xPnYA-74Ss-xC-27" value="Request body valide" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7mvyjp9xPnYA-74Ss-xC-27" value="Request body valid" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="700" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-31" value="RESTValidationResult.&lt;br&gt;setUpdatedObject" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -138,26 +141,25 @@
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-56" target="7mvyjp9xPnYA-74Ss-xC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mvyjp9xPnYA-74Ss-xC-56" value="vlan is not exist,&lt;br&gt;Netmask, Prefix, Purposes,&amp;nbsp;IP, Routes, MTU,&amp;nbsp; vmNetworkName&amp;nbsp;&lt;br&gt;&amp;nbsp;valid" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="1230" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7mvyjp9xPnYA-74Ss-xC-78" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFCE9F;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-76" target="7mvyjp9xPnYA-74Ss-xC-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="1360" />
-              <mxPoint x="650" y="920" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="7mvyjp9xPnYA-74Ss-xC-56" value="vlan is not exist,&lt;br&gt;Netmask, Prefix, Purposes,&amp;nbsp;&lt;br&gt;IP, Routes, MTU,&amp;nbsp; vmNetworkName&amp;nbsp;&lt;br&gt;&amp;nbsp;valid" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="293.75" y="1230" width="227.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-80" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-76" target="7mvyjp9xPnYA-74Ss-xC-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3E9huD4oho58RNo_yzY4-1" value="N" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#FFCE9F;fillColor=#ffcc99;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-76" target="7mvyjp9xPnYA-74Ss-xC-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1382" />
+              <mxPoint x="660" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-76" value="IP Number &amp;lt; PPDM + Search nodes IPs needs" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="1335" width="190" height="50" as="geometry" />
+          <mxGeometry x="312.5" y="1357" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-79" value="Validation Completed" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="1430" width="80" height="80" as="geometry" />
+          <mxGeometry x="367.5" y="1452" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-82" target="7mvyjp9xPnYA-74Ss-xC-83">
           <mxGeometry relative="1" as="geometry" />
@@ -258,22 +260,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-122" value="getServiceListByEntity" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-127" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#A9C4EB;" edge="1" parent="1" source="7mvyjp9xPnYA-74Ss-xC-124" target="7mvyjp9xPnYA-74Ss-xC-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-124" value="createVLANNetwork for each service by tread pool" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-126" value="updateUsage" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="lfdbjEoLifJyDJFXSqJd" name="第 2 页">
-    <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,13 +296,13 @@
         <mxCell id="20sGmdqy_mmukyWSxmFM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" edge="1" parent="1" source="20sGmdqy_mmukyWSxmFM-6" target="20sGmdqy_mmukyWSxmFM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20sGmdqy_mmukyWSxmFM-6" value="PpdmUsage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="20sGmdqy_mmukyWSxmFM-6" value="InitPpdmUsage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="740" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20sGmdqy_mmukyWSxmFM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" edge="1" parent="1" source="20sGmdqy_mmukyWSxmFM-8" target="20sGmdqy_mmukyWSxmFM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20sGmdqy_mmukyWSxmFM-8" value="SearchUsages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="20sGmdqy_mmukyWSxmFM-8" value="InitSearchUsages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="740" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20sGmdqy_mmukyWSxmFM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" edge="1" parent="1" source="20sGmdqy_mmukyWSxmFM-10">
@@ -313,6 +315,21 @@
         </mxCell>
         <mxCell id="20sGmdqy_mmukyWSxmFM-14" value="CreateAuditLog" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPbZzxfVhBw0Ixa6P9Zo-1" value="VLANNetworkSyncedValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPbZzxfVhBw0Ixa6P9Zo-2" value="VLANNetworksSyntaxValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPbZzxfVhBw0Ixa6P9Zo-3" value="PrerequisiteValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPbZzxfVhBw0Ixa6P9Zo-4" value="VLANNetworkPostValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="840" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPbZzxfVhBw0Ixa6P9Zo-5" value="VLANNetworkIpsValidator" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
