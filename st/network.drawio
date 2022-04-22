@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T00:14:40.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ua-zXxvT_-SE_9csF09q" version="17.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-22T06:48:29.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RwdbThW8o-KYStocyQj8" version="17.4.3" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Create">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,17 +269,17 @@
         <mxCell id="7mvyjp9xPnYA-74Ss-xC-126" value="updateUsage" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1090" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Le4Tirno8PLqzlybWpBK-1" value="Validation" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Le4Tirno8PLqzlybWpBK-1" value="Validation" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="140" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Le4Tirno8PLqzlybWpBK-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Create &lt;br&gt;Network&lt;/span&gt;" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Le4Tirno8PLqzlybWpBK-2" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Create &lt;br&gt;Network&lt;/span&gt;" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="920" y="460" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="lfdbjEoLifJyDJFXSqJd" name="第 2 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fuBVYSjKyOdNmZUHzTdF" name="proxydeploy">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,14 +401,14 @@
         <mxCell id="BAK3HmrcA5luk7s7HqNo-19" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Release reserved IP addresses&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5qmG_a-MGmky9MYRdmhd-1" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5qmG_a-MGmky9MYRdmhd-1" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZU9bRguUQLTD2ygrQMHo" name="storageinterface">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,6 +476,86 @@
         </mxCell>
         <mxCell id="3qcni7ebYvSLAds3ZBvE-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="595" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9jmrwmRpqvnQvpd8G_Te" name="Edit">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-1" target="BJRybewqX2Vq76QU8Wvr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-1" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-5" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-2" target="BJRybewqX2Vq76QU8Wvr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-15" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-2" target="BJRybewqX2Vq76QU8Wvr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-2" value="Validators" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-4" target="BJRybewqX2Vq76QU8Wvr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-11" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-4" target="BJRybewqX2Vq76QU8Wvr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-4" value="Any Field Change" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-13" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-6" target="BJRybewqX2Vq76QU8Wvr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-6" target="BJRybewqX2Vq76QU8Wvr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-6" value="Is Default Network Change" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-10" value="No changed, return 200" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-12" value="updateDefaultVLAN" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-14" value="Validate Error Retrurn 4xx" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-19" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-16" target="BJRybewqX2Vq76QU8Wvr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-16" target="BJRybewqX2Vq76QU8Wvr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-16" value="Only ES Update need" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-18" value="Update vlanNetwork ES" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-20" value="updateVLAN&lt;br&gt;ByIPAddressFamilyChange" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-22" target="BJRybewqX2Vq76QU8Wvr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-22" value="Update VLAN" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJRybewqX2Vq76QU8Wvr-25" target="BJRybewqX2Vq76QU8Wvr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-25" value="updateStorageNetworkPurpose" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJRybewqX2Vq76QU8Wvr-27" value="Delete PPDM VLAN" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
