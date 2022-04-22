@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T06:48:29.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RwdbThW8o-KYStocyQj8" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-22T09:08:15.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Rp2TCuot7qt5O0JMrYj-" version="17.4.3" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Create">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -556,6 +556,47 @@
         </mxCell>
         <mxCell id="BJRybewqX2Vq76QU8Wvr-27" value="Delete PPDM VLAN" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bGkc7BkZJoZkGJXBWczI" name="Requirment">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ZlyVQQVD-7-2rsR8TSK-1" target="6ZlyVQQVD-7-2rsR8TSK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-1" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ZlyVQQVD-7-2rsR8TSK-2" target="6ZlyVQQVD-7-2rsR8TSK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-9" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ZlyVQQVD-7-2rsR8TSK-2" target="6ZlyVQQVD-7-2rsR8TSK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-2" value="&lt;span style=&quot;color: rgb(33 , 33 , 33) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;networkPurposes&amp;nbsp;&lt;/span&gt;✔&lt;br&gt;ServerType&amp;nbsp; X&lt;br&gt;ReferenceID&amp;nbsp; X" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-6" value="Create or Edit VLAN Requirement For related Purposes" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-11" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ZlyVQQVD-7-2rsR8TSK-8" target="6ZlyVQQVD-7-2rsR8TSK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-15" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ZlyVQQVD-7-2rsR8TSK-8" target="6ZlyVQQVD-7-2rsR8TSK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-8" value="&lt;span style=&quot;color: rgb(33 , 33 , 33) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;networkPurposes&amp;nbsp;&lt;/span&gt;✔&lt;span style=&quot;color: rgb(33 , 33 , 33) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;ServerType&amp;nbsp; ✔&lt;br&gt;ReferenceID X" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-10" value="Edit vProxy/Search requirement" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZlyVQQVD-7-2rsR8TSK-14" value="&lt;span style=&quot;color: rgb(33 , 33 , 33) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;networkPurposes&amp;nbsp;&lt;/span&gt;✔&lt;br&gt;ServerType&amp;nbsp; ✔&lt;br&gt;ReferenceID&amp;nbsp; ✔" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
