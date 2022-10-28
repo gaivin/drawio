@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T03:46:24.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iU1AguTy_StMAXRtUmRx" version="20.5.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-10-28T01:38:09.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-YGbAM3-HPw6txWg6-5H" version="20.5.1" type="github" pages="15">
   <diagram id="lR8Z5qvyDBxMEgOfz33u" name="Page-1">
     <mxGraphModel dx="1024" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4363,6 +4363,32 @@
         </mxCell>
         <mxCell id="3nJrvY8HSGJaIp82rQZD-147" value="Data&amp;nbsp;&lt;br&gt;VLAN 21" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fontSize=12;fillColor=#1ba1e2;fontColor=#ffffff;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="599.53" y="1310" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U4gusTKAUSzSYqCsAfY2" name="Page-15">
+    <mxGraphModel dx="1038" dy="-553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FoV8zT6Bj17dDy1IzIxB-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/lan__computing__lancard__network__soundcard__smartcard__contact-128.png;dashed=1;strokeColor=#FA6800;strokeWidth=2;fontColor=#000000;fillColor=#9906CF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1450" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MfP0uFJ9Jl1qChI-6WJb-1" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#1BA1E2;strokeWidth=6;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MfP0uFJ9Jl1qChI-6WJb-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;strokeWidth=6;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1600" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MfP0uFJ9Jl1qChI-6WJb-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/cog-128.png;strokeColor=#1BA1E2;strokeWidth=6;fontColor=#000000;fillColor=#9906CF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1830" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MfP0uFJ9Jl1qChI-6WJb-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-and-marketing-21/32/web_control_management-128.png;strokeColor=#1BA1E2;strokeWidth=6;fontColor=#000000;fillColor=#9906CF;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1440" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MfP0uFJ9Jl1qChI-6WJb-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-32-128.png;strokeColor=#1BA1E2;strokeWidth=6;fontColor=#000000;fillColor=#9906CF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1600" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
