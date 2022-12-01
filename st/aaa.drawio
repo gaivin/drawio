@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T09:48:32.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bpCYFqfpoun8GQmdTs3K" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-01T09:58:09.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V4HseM0thqRAr0aFc1ZB" version="20.5.3" type="github" pages="2">
   <diagram id="PomAMu36W8_MjZCqoEX0" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,7 @@
         <mxCell id="cNPDhOduVb3bdSR6KXGZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-6" target="cNPDhOduVb3bdSR6KXGZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cNPDhOduVb3bdSR6KXGZ-6" value="User" style="sketch=0;outlineConnect=0;fontColor=#004C99;fillColor=#647687;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cNPDhOduVb3bdSR6KXGZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#004C99;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-9" target="cNPDhOduVb3bdSR6KXGZ-30">
+        <mxCell id="cNPDhOduVb3bdSR6KXGZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#004C99;startArrow=classic;startFill=1;strokeWidth=1;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-9" target="cNPDhOduVb3bdSR6KXGZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNPDhOduVb3bdSR6KXGZ-9" value="Privilege" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/3579116-200.png;fontColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
@@ -46,7 +43,7 @@
         <mxCell id="cNPDhOduVb3bdSR6KXGZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#004C99;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-18" target="cNPDhOduVb3bdSR6KXGZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cNPDhOduVb3bdSR6KXGZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#004C99;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-35" target="cNPDhOduVb3bdSR6KXGZ-9">
+        <mxCell id="cNPDhOduVb3bdSR6KXGZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;fontColor=#004C99;startArrow=classic;startFill=1;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-35" target="cNPDhOduVb3bdSR6KXGZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNPDhOduVb3bdSR6KXGZ-35" value="Tenent" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#647687;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;strokeWidth=2;fontColor=#004C99;aspect=fixed;" vertex="1" parent="1">
@@ -59,8 +56,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNPDhOduVb3bdSR6KXGZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#004C99;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-9" target="cNPDhOduVb3bdSR6KXGZ-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cNPDhOduVb3bdSR6KXGZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#004C99;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="cNPDhOduVb3bdSR6KXGZ-5" target="cNPDhOduVb3bdSR6KXGZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNPDhOduVb3bdSR6KXGZ-6" value="User" style="sketch=0;outlineConnect=0;fontColor=#004C99;fillColor=#647687;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
