@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T08:28:38.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rGlY_hY808uWsGT1_DAo" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:49:14.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wlbO99RKil4BdbvZ1kH4" version="20.7.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="LogLevelMeta">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1069,18 +1069,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-4" target="54X6Ed-eLchwtK7-KrP0-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="650" />
-              <mxPoint x="480" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-4" target="54X6Ed-eLchwtK7-KrP0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.188;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-4" target="54X6Ed-eLchwtK7-KrP0-77">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-4" target="54X6Ed-eLchwtK7-KrP0-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-4" value="Create LogExport Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
@@ -1098,6 +1090,14 @@
         <mxCell id="54X6Ed-eLchwtK7-KrP0-8" value="Create LogExport" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="560" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-12" target="54X6Ed-eLchwtK7-KrP0-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="320" />
+              <mxPoint x="410" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-12" value="activity&lt;br&gt;(logExportJobGroup)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1110,7 +1110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.33;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;curved=1;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-14" target="54X6Ed-eLchwtK7-KrP0-29">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.33;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;curved=1;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-14" target="54X6Ed-eLchwtK7-KrP0-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-14" value="activity&lt;br&gt;(LogExportJob)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
@@ -1124,12 +1124,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-16" value="logExport" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-16" value="logExport&lt;br&gt;(JobGroup)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.33;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=0.33;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-17" target="54X6Ed-eLchwtK7-KrP0-14">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-17" target="54X6Ed-eLchwtK7-KrP0-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="560" />
+              <mxPoint x="410" y="520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fillColor=#d5e8d4;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-17" target="54X6Ed-eLchwtK7-KrP0-26">
@@ -1143,7 +1147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-17" value="logExport" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-17" value="logExport&lt;br&gt;(Job)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fontSize=9;fontColor=#000000;endArrow=none;endFill=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-24" target="54X6Ed-eLchwtK7-KrP0-1">
@@ -1170,7 +1174,7 @@
         <mxCell id="54X6Ed-eLchwtK7-KrP0-57" value="Process External Logs Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-59" value="Compress Logs Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-59" value="&lt;br&gt;&lt;br&gt;Compress Logs Task&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="54X6Ed-eLchwtK7-KrP0-2" value="Create LogExport JobGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
@@ -1185,14 +1189,16 @@
             <mxPoint x="800" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-77" target="54X6Ed-eLchwtK7-KrP0-48">
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;fillColor=#fa6800;strokeColor=#C73500;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-77" target="54X6Ed-eLchwtK7-KrP0-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-77" target="54X6Ed-eLchwtK7-KrP0-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="54X6Ed-eLchwtK7-KrP0-77" target="54X6Ed-eLchwtK7-KrP0-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="54X6Ed-eLchwtK7-KrP0-77" value="Generate Logs Meta Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="760" width="80" height="40" as="geometry" />
+        <mxCell id="54X6Ed-eLchwtK7-KrP0-77" value="Generate Meta&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="80" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
