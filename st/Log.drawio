@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T09:01:19.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ihAjwPXj6Sq4dNtmH4Dh" version="20.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-17T11:11:38.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uEoa2-5iHiBVssmXXMIV" version="20.8.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="LogLevelMeta">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1403,57 +1403,48 @@
         <mxCell id="oZpMILqcryPtFvWEnVAA-26" value="logExportMeta" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#76608a;fontSize=6;strokeColor=#432D57;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="480" y="1420" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-29" value="Target Activity" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=9;opacity=50;fillColor=#d5e8d4;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1800" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-30" value="Log Export Activity" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=9;opacity=50;fillColor=#d5e8d4;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2120" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-31" value="Log Export&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontSize=9;opacity=50;fillColor=#d5e8d4;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1960" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-34" value="activity&lt;br&gt;(LogExportJob)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2140" width="80" height="40" as="geometry" />
+        <mxCell id="oZpMILqcryPtFvWEnVAA-34" value="LogExportActivity" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="159" y="2040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZpMILqcryPtFvWEnVAA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="oZpMILqcryPtFvWEnVAA-41" target="oZpMILqcryPtFvWEnVAA-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279" y="2019.9999999999998" as="targetPoint" />
+            <mxPoint x="279" y="1961.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="2020" />
-              <mxPoint x="260" y="2140" />
+              <mxPoint x="260" y="1962" />
+              <mxPoint x="260" y="2040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oZpMILqcryPtFvWEnVAA-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=9;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oZpMILqcryPtFvWEnVAA-41" target="oZpMILqcryPtFvWEnVAA-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="1980" />
-              <mxPoint x="140" y="1860" />
+              <mxPoint x="140" y="1922" />
+              <mxPoint x="140" y="1840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-41" value="logExport&lt;br&gt;(Job)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="159" y="1980" width="80" height="40" as="geometry" />
+        <mxCell id="oZpMILqcryPtFvWEnVAA-41" value="LogExport" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=9;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="159" y="1922" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Dc4R6m0bG490S0ujLMS-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;dashed=1;" edge="1" parent="1" source="oZpMILqcryPtFvWEnVAA-44" target="oZpMILqcryPtFvWEnVAA-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="1860" />
-              <mxPoint x="260" y="1980" />
+              <mxPoint x="260" y="1840" />
+              <mxPoint x="260" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZpMILqcryPtFvWEnVAA-44" value="activity&lt;br&gt;(TargetJob)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="159" y="1820" width="80" height="40" as="geometry" />
+        <mxCell id="oZpMILqcryPtFvWEnVAA-44" value="TargetActivity" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=9;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="159" y="1800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Dc4R6m0bG490S0ujLMS-6" value="targetSource: targetActivityID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1938" width="165" height="26" as="geometry" />
+          <mxGeometry x="129" y="1896" width="165" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6Dc4R6m0bG490S0ujLMS-7" value="logExportActivity: logExportActivityID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="242" y="2035" width="205" height="26" as="geometry" />
+          <mxGeometry x="238" y="1961" width="205" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6Dc4R6m0bG490S0ujLMS-9" value="reference: LOG_EXPORT_ID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1874" width="165" height="26" as="geometry" />
+          <mxGeometry x="237.5" y="1836" width="165" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2122,6 +2113,57 @@
             <mxGeometry x="470" y="655" width="300" height="170" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1N-b8u0zpBvIzA6ZZt8-" name="Cases">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-18" value="LogExportActivity" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=18;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="TihEMgIXnn2VLLNuTTd2-20" target="TihEMgIXnn2VLLNuTTd2-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="311.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="400" />
+              <mxPoint x="420" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-20" value="LogExport" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=18;strokeColor=none;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="322" width="160" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;dashed=1;" edge="1" parent="1" source="TihEMgIXnn2VLLNuTTd2-22" target="TihEMgIXnn2VLLNuTTd2-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="200" />
+              <mxPoint x="420" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-22" value="TargetActivity" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=18;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeWidth=1;fontSize=18;fontColor=#000000;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TihEMgIXnn2VLLNuTTd2-20" target="TihEMgIXnn2VLLNuTTd2-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="322" />
+              <mxPoint x="220" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-24" value="targetSource: targetActivityID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-25" value="logExportActivity: logExportActivityID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TihEMgIXnn2VLLNuTTd2-26" value="reference: LOG_EXPORT_ID" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
