@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T03:05:31.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LXnw8ukOntpquzPITr6N" version="20.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:23:58.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8eaP18J7oFddr_PzNc6-" version="20.8.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="LogLevelMeta">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2124,9 +2124,6 @@
         <mxCell id="Zhn5gQegTSWRxJxqGYKV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="1480" width="560" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Zhn5gQegTSWRxJxqGYKV-52" value="Log_1+.zip" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="496" y="1520" width="64" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JLHJrYNRx-o1PGiTQe0W-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="80" y="760" width="560" height="560" as="geometry" />
         </mxCell>
@@ -2397,6 +2394,9 @@
         </mxCell>
         <mxCell id="Zhn5gQegTSWRxJxqGYKV-50" value="Log_1.zip" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="406" y="1520" width="64" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zhn5gQegTSWRxJxqGYKV-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_48px-128.png;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="478" y="1498" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
