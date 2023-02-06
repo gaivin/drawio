@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T01:55:15.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qaAJ0Lr5s80_TJrz226c" version="20.8.15" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-06T11:15:13.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ERwRxriB4FAceTjvetLX" version="20.8.15" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="LogLevelMeta">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2743,6 +2743,44 @@
             <mxGeometry x="470" y="655" width="300" height="170" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UKUug-Rfg5y550UMOiC6" name="LogSize">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="opgMxp2INt3rBdcCwomQ-1" value="sda5&lt;br style=&quot;font-size: 10px;&quot;&gt;60G" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=10;rotation=-90;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="376.5" y="417.5" width="40" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-5" value="sda4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=10;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="482.5" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-4" value="sda3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=10;rotation=-90;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="233.5" y="452.5" width="40" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-2" value="sda2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=10;rotation=-90;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="483.75" width="40" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-3" value="sda1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fontSize=10;rotation=-90;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="160" y="483.75" width="40" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-6" value="&lt;br&gt;&lt;br&gt;/logs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-8" value="log-exports" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-9" value="logbundles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-10" value="external-components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-11" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
