@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T11:15:13.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ERwRxriB4FAceTjvetLX" version="20.8.15" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-06T12:00:09.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="My9soFmMnBoXF6-1YAgn" version="20.8.15" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="LogLevelMeta">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2769,17 +2769,29 @@
         <mxCell id="opgMxp2INt3rBdcCwomQ-6" value="&lt;br&gt;&lt;br&gt;/logs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="opgMxp2INt3rBdcCwomQ-8" value="log-exports" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="80" height="20" as="geometry" />
+        <mxCell id="opgMxp2INt3rBdcCwomQ-8" value="log-exports" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="opgMxp2INt3rBdcCwomQ-9" value="logbundles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="80" height="20" as="geometry" />
+          <mxGeometry x="310" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="opgMxp2INt3rBdcCwomQ-10" value="external-components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="130" height="20" as="geometry" />
+          <mxGeometry x="200" y="400" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="opgMxp2INt3rBdcCwomQ-11" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-12" value="Purge Size + Exported Log Size = 1G + 1G = 2G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-13" value="EXPORT_LOG_MAXSIZE = &quot;1G&quot;;&lt;br&gt;&lt;br&gt;log.export.zip.size.threshold=1073741824,&amp;nbsp; 1G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-14" value="60 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="422.5" width="40" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="opgMxp2INt3rBdcCwomQ-15" value="2 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="40" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
