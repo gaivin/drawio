@@ -1,4 +1,4 @@
-<mxfile modified="2023-03-23T02:58:15.772Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Bh_qa1NPVyJBZtoOzhMR" version="21.0.10" type="github" pages="5">
+<mxfile modified="2023-03-24T00:57:52.483Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xonLUlFhONB-IunrBrqx" version="21.0.10" type="github" pages="5">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1140,29 +1140,44 @@
         <mxCell id="cMnpYDDpnG61fM7ztJCE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2sPtYeucWT6CX6BX-Sf8-5" target="cMnpYDDpnG61fM7ztJCE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aj-d2o8kneuXi3tK27Td-2" target="aj-d2o8kneuXi3tK27Td-3">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aj-d2o8kneuXi3tK27Td-2" target="aj-d2o8kneuXi3tK27Td-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-2" value="Enable Logging" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-2" value="Enable Logging" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aj-d2o8kneuXi3tK27Td-3" target="aj-d2o8kneuXi3tK27Td-5">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-6" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aj-d2o8kneuXi3tK27Td-3" target="aj-d2o8kneuXi3tK27Td-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aj-d2o8kneuXi3tK27Td-3" target="aj-d2o8kneuXi3tK27Td-7">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-8" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aj-d2o8kneuXi3tK27Td-3" target="aj-d2o8kneuXi3tK27Td-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-3" value="Single Daemon&lt;br&gt;&amp;nbsp;&amp;amp; One Log" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" vertex="1" parent="1">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-3" value="Single Daemon&lt;br&gt;&amp;nbsp;&amp;amp; One Log" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-5" value="STD Log" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="Zoz4zM9MWc5uNP4-UqUE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aj-d2o8kneuXi3tK27Td-5" target="Zoz4zM9MWc5uNP4-UqUE-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aj-d2o8kneuXi3tK27Td-7" value="Enable Logging Sidecar" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" vertex="1" parent="1">
+        <mxCell id="aj-d2o8kneuXi3tK27Td-5" value="Set the&amp;nbsp;appender-ref to Console&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoz4zM9MWc5uNP4-UqUE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aj-d2o8kneuXi3tK27Td-7" target="Zoz4zM9MWc5uNP4-UqUE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aj-d2o8kneuXi3tK27Td-7" value="Enable Logging Sidecar" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoz4zM9MWc5uNP4-UqUE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zoz4zM9MWc5uNP4-UqUE-1" target="Zoz4zM9MWc5uNP4-UqUE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoz4zM9MWc5uNP4-UqUE-1" value="All logs in &lt;br&gt;root folder &amp;amp; &lt;br&gt;named in .log" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoz4zM9MWc5uNP4-UqUE-3" value="Persisted in Local Store" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
