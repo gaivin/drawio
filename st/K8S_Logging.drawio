@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-11T04:53:52.835Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HECnUmHfRJx3VjM0E7p1" version="21.3.7" type="github" pages="9">
+<mxfile modified="2023-06-11T08:14:28.432Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3YWcSjMzIMprpyEWOuq0" version="21.3.7" type="github" pages="9">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1991,7 +1991,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_7VdOLtvyb2XwYwlSuF0-3" value="ppdm ns" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="_7VdOLtvyb2XwYwlSuF0-3" value="ppdm ns" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry y="40" width="360" height="610" as="geometry" />
         </mxCell>
         <mxCell id="_7VdOLtvyb2XwYwlSuF0-12" value="Log Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" parent="_7VdOLtvyb2XwYwlSuF0-3" vertex="1">
@@ -2015,7 +2015,7 @@
         <mxCell id="WswtRzyWs1yztwnon-eQ-24" value="ADM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" vertex="1" parent="_7VdOLtvyb2XwYwlSuF0-3">
           <mxGeometry x="200" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_7VdOLtvyb2XwYwlSuF0-8" value="atlantic ns" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+        <mxCell id="_7VdOLtvyb2XwYwlSuF0-8" value="atlantic ns" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="370" height="610" as="geometry" />
         </mxCell>
         <mxCell id="WswtRzyWs1yztwnon-eQ-1" value="Logging Rsyslog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" vertex="1" parent="_7VdOLtvyb2XwYwlSuF0-8">
