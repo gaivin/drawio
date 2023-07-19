@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-19T06:27:57.650Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bHR5eWUt58D1XVFyyT6U" version="21.5.2" type="github" pages="10">
+<mxfile modified="2023-07-19T06:29:13.236Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nVikcY3Ry52wjM4L_nnC" version="21.5.2" type="github" pages="10">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2099,7 +2099,7 @@
         <mxCell id="Osbd9mQA-aGC8XOan7ah-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_7VdOLtvyb2XwYwlSuF0-8" source="WswtRzyWs1yztwnon-eQ-1" target="WswtRzyWs1yztwnon-eQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WswtRzyWs1yztwnon-eQ-1" value="Logging Rsyslog&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" parent="_7VdOLtvyb2XwYwlSuF0-8" vertex="1">
+        <mxCell id="WswtRzyWs1yztwnon-eQ-1" value="Logging Rsyslog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" parent="_7VdOLtvyb2XwYwlSuF0-8" vertex="1">
           <mxGeometry x="80" y="78" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WswtRzyWs1yztwnon-eQ-13" value="Support Bundle&lt;br&gt;Operator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006EAF;fontColor=#000000;strokeWidth=2;" parent="_7VdOLtvyb2XwYwlSuF0-8" vertex="1">
