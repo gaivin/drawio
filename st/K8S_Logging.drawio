@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-19T07:33:51.096Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZY_LKGL9adFLD9qA76bl" version="21.5.2" type="github" pages="10">
+<mxfile modified="2023-07-19T07:36:24.090Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NrAMHOzd2CCV8jKii_Jw" version="21.5.2" type="github" pages="10">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2099,7 +2099,7 @@
             <mxRectangle x="-120" y="40" width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Osbd9mQA-aGC8XOan7ah-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_7VdOLtvyb2XwYwlSuF0-8" source="9rm43Kr6NWOmr0IPsuyr-1" target="WswtRzyWs1yztwnon-eQ-2">
+        <mxCell id="Osbd9mQA-aGC8XOan7ah-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_7VdOLtvyb2XwYwlSuF0-8" source="9rm43Kr6NWOmr0IPsuyr-1" target="WswtRzyWs1yztwnon-eQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WswtRzyWs1yztwnon-eQ-1" value="Logging Rsyslog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=2;" parent="_7VdOLtvyb2XwYwlSuF0-8" vertex="1">
@@ -2115,7 +2115,7 @@
           <mxGeometry x="80" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WswtRzyWs1yztwnon-eQ-2" value="Logging PV" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=middle;align=left;verticalAlign=middle;shape=mxgraph.kubernetes.icon;prIcon=pv;labelPosition=right;fontSize=10;" parent="_7VdOLtvyb2XwYwlSuF0-8" vertex="1">
-          <mxGeometry x="240" y="88" width="50" height="48" as="geometry" />
+          <mxGeometry x="251" y="90" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9rm43Kr6NWOmr0IPsuyr-1" value="Logging Rsyslog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="_7VdOLtvyb2XwYwlSuF0-8">
           <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
@@ -2250,7 +2250,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rm43Kr6NWOmr0IPsuyr-3" value="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Osbd9mQA-aGC8XOan7ah-26" target="Osbd9mQA-aGC8XOan7ah-2">
+        <mxCell id="9rm43Kr6NWOmr0IPsuyr-3" value="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" edge="1" parent="1" source="Osbd9mQA-aGC8XOan7ah-26" target="Osbd9mQA-aGC8XOan7ah-2">
           <mxGeometry x="0.283" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-160" y="510" />
