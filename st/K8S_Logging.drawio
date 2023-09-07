@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-07T08:18:40.254Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HwgO0ABElmDojDtroUxe" version="21.7.2" type="github" pages="12">
+<mxfile modified="2023-09-07T09:45:36.744Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1OkBnnbbwwHWOPvRSC84" version="21.7.2" type="github" pages="12">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2579,7 +2579,7 @@
         <mxCell id="EBU9KFzuOsKr7zOG5Z9T-10" value="Logging PV" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pv" parent="1" vertex="1">
           <mxGeometry x="410" y="170" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="EBU9KFzuOsKr7zOG5Z9T-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EBU9KFzuOsKr7zOG5Z9T-29" target="EBU9KFzuOsKr7zOG5Z9T-6" edge="1">
+        <mxCell id="EBU9KFzuOsKr7zOG5Z9T-30" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EBU9KFzuOsKr7zOG5Z9T-29" target="EBU9KFzuOsKr7zOG5Z9T-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EBU9KFzuOsKr7zOG5Z9T-33" value="logs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EBU9KFzuOsKr7zOG5Z9T-31" target="EBU9KFzuOsKr7zOG5Z9T-10" edge="1">
