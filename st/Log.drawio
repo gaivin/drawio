@@ -5934,15 +5934,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3mKPpcxgalQ6VgjEgr_N" name="Page-12">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="3mKPpcxgalQ6VgjEgr_N" name="LogExportActivities">
+    <mxGraphModel dx="1839" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;dashed=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-4" target="VpMyQgrVKPrbkwLddUYR-6">
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;dashed=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;endArrow=none;endFill=0;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-4" target="VpMyQgrVKPrbkwLddUYR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;startArrow=classic;startFill=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-5" target="VpMyQgrVKPrbkwLddUYR-7">
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;startArrow=classic;startFill=1;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;endArrow=none;endFill=0;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-5" target="VpMyQgrVKPrbkwLddUYR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-1" value="TargetJobGroup" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#bac8d3;fontSize=10;strokeColor=#23445d;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,0,0],[0.67,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;gradientColor=default;" vertex="1" parent="1">
@@ -6005,6 +6005,18 @@
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-18" target="VpMyQgrVKPrbkwLddUYR-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-23" value="ee7e2825-70d6-4dad-b9be-5e549c82f7c8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-24" value="d89a4658-3594-4865-9e01-10057668e5cf" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="80" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-25" value="c46cd9e5-dd3e-4db8-89f9-c8e191d1e173" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-26" value="7d2ebff2-971d-4def-ad6d-267c413fb4d2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
