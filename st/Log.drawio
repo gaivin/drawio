@@ -5935,7 +5935,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3mKPpcxgalQ6VgjEgr_N" name="LogExportActivities">
-    <mxGraphModel dx="1839" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1839" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5951,8 +5951,8 @@
         <mxCell id="VpMyQgrVKPrbkwLddUYR-2" value="LogExportJobGroup" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#1ba1e2;fontSize=10;strokeColor=#006EAF;fontColor=#000000;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,1,0,0,0],[0.68,0,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=center;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-3" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 8px;&quot;&gt;ProcessPPDMLogsTask&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#ffffff;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="640" y="70" width="40" height="20" as="geometry" />
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-3" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 8px;&quot;&gt;ProcessPPDMLogsTask01&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#ffffff;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=10;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-4" target="VpMyQgrVKPrbkwLddUYR-1">
           <mxGeometry relative="1" as="geometry">
@@ -5985,38 +5985,113 @@
         <mxCell id="VpMyQgrVKPrbkwLddUYR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;curved=1;dashed=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-2" target="VpMyQgrVKPrbkwLddUYR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-15" target="VpMyQgrVKPrbkwLddUYR-6">
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-15" target="VpMyQgrVKPrbkwLddUYR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-15" value="ExportAppLogTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#6a00ff;fontSize=8;strokeColor=#3700CC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="640" y="110" width="40" height="20" as="geometry" />
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-15" value="ExportAppLogTask01" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#6a00ff;fontSize=8;strokeColor=#3700CC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-17" value="ProcessExternalLogsTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-17" value="ProcessExternalLogsTask01" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-18" value="CompleteLogExportTask01" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VpMyQgrVKPrbkwLddUYR-18" value="CompleteLogExportTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
-          <mxGeometry x="640" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-3" target="VpMyQgrVKPrbkwLddUYR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-17" target="VpMyQgrVKPrbkwLddUYR-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="129.99999999999977" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-18" target="VpMyQgrVKPrbkwLddUYR-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="129.99999999999977" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-23" value="ee7e2825-70d6-4dad-b9be-5e549c82f7c8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="300" height="30" as="geometry" />
+          <mxGeometry x="230" y="-30" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-24" value="d89a4658-3594-4865-9e01-10057668e5cf" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="80" width="300" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-30" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-25" value="c46cd9e5-dd3e-4db8-89f9-c8e191d1e173" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="260" height="30" as="geometry" />
+          <mxGeometry x="-100" y="330" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VpMyQgrVKPrbkwLddUYR-26" value="7d2ebff2-971d-4def-ad6d-267c413fb4d2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-27" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 8px;&quot;&gt;ProcessPPDMLogsTask02&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#ffffff;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-29" target="VpMyQgrVKPrbkwLddUYR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-29" value="ExportAppLogTask02" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#6a00ff;fontSize=8;strokeColor=#3700CC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-30" value="ProcessExternalLogsTask02" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-31" value="CompleteLogExportTask02" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-27" target="VpMyQgrVKPrbkwLddUYR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-30" target="VpMyQgrVKPrbkwLddUYR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-31" target="VpMyQgrVKPrbkwLddUYR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-35" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 8px;&quot;&gt;ProcessPPDMLogsTask&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#ffffff;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-36" value="ExportAppLogTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#6a00ff;fontSize=8;strokeColor=#3700CC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-37" value="ProcessExternalLogsTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-38" value="CompleteLogExportTask" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#0050ef;fontSize=8;strokeColor=#001DBC;fontColor=#000000;points=[[0,0,0,0,0],[0,0.33,0,0,0],[0,0.5,0,0,0],[0,0.67,0,0,0],[0,1,0,0,0],[0.33,0,0,0,0],[0.33,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.68,0,0,0,0],[0.68,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-39" target="VpMyQgrVKPrbkwLddUYR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-39" value="activityContext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-40" target="VpMyQgrVKPrbkwLddUYR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-40" value="localRequests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-41" value="requestStateMap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-43" target="VpMyQgrVKPrbkwLddUYR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-43" value="pillarActivities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VpMyQgrVKPrbkwLddUYR-46" target="VpMyQgrVKPrbkwLddUYR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpMyQgrVKPrbkwLddUYR-46" value="queueContext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
