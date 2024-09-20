@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Policies" id="XsPK9l1ibMwrTlhPn4SU">
-    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,10 +686,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p3y90NvniDVgKJm5j4r2-47" value="Error Image&amp;nbsp;&lt;div&gt;Never Pull&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;" vertex="1" parent="p3y90NvniDVgKJm5j4r2-13">
-          <mxGeometry x="40" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3y90NvniDVgKJm5j4r2-53" value="A warning event &#xa;is recorded" style="strokeColor=#d6b656;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#fff2cc;dashed=1;" vertex="1" parent="p3y90NvniDVgKJm5j4r2-13">
-          <mxGeometry x="45" y="423" width="110" height="60" as="geometry" />
+          <mxGeometry x="45" y="400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3y90NvniDVgKJm5j4r2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="p3y90NvniDVgKJm5j4r2-13" source="p3y90NvniDVgKJm5j4r2-53" target="p3y90NvniDVgKJm5j4r2-47">
           <mxGeometry relative="1" as="geometry" />
