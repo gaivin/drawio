@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-42" value="Auto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#314625,#446E2C);opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="418" y="2000" width="222" height="300" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-72" value="Manual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6C312F;opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="2160" width="400" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-42" value="Auto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#314625,#446E2C);opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1980" width="262" height="360" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-40" value="Manual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6C312F;opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2000" width="380" height="300" as="geometry" />
+          <mxGeometry x="90" y="1980" width="450" height="360" as="geometry" />
         </mxCell>
         <mxCell id="eMfwU3fscMKZv_2OrXQS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eMfwU3fscMKZv_2OrXQS-5" target="eMfwU3fscMKZv_2OrXQS-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -579,10 +582,10 @@
           <mxGeometry x="689.5" y="1807" width="39" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-1" value="syslog-tls.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
-          <mxGeometry x="440" y="2040" width="37.6" height="40" as="geometry" />
+          <mxGeometry x="482" y="2040" width="37.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-2" value="rsyslog-global" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2040" width="40" height="40" as="geometry" />
+          <mxGeometry x="625.41" y="2040" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-1" target="aFlX7W3WC5Dv7D4lStiv-2">
           <mxGeometry relative="1" as="geometry" />
@@ -590,32 +593,32 @@
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-4" target="aFlX7W3WC5Dv7D4lStiv-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-4" value="extserver" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2041" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-4" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/etc/ssl/certificates/&lt;/span&gt;extserver" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2045" width="35.73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-8" value="server1.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
-          <mxGeometry x="440" y="2120" width="37.6" height="40" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-8" value="${server1_ip_fqdn}.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="482" y="2160" width="37.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-9" value="rsyslog-server1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2120" width="40" height="40" as="geometry" />
+          <mxGeometry x="625.41" y="2160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-8" target="aFlX7W3WC5Dv7D4lStiv-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-15" value="server1" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="203.18" y="2121" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-15" value="server1" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="203.18" y="2165" width="35.73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-20" value="server2.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
-          <mxGeometry x="440" y="2200" width="37.6" height="40" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-20" value="${server2_ip_fqdn}.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="482" y="2240" width="37.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-21" value="rsyslog-server2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2200" width="40" height="40" as="geometry" />
+          <mxGeometry x="625.41" y="2240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-20" target="aFlX7W3WC5Dv7D4lStiv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-24" value="server2" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="205" y="2201" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-24" value="server2" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2245" width="35.73" height="30" as="geometry" />
         </mxCell>
         <UserObject label="syslog-server-ca.pem&#xa;syslog-client-cert.pem&#xa;syslog-client-key.pem" id="aFlX7W3WC5Dv7D4lStiv-25">
           <mxCell style="shape=curlyBracket;html=1;rounded=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=9;" vertex="1" parent="1">
@@ -633,86 +636,86 @@
         </mxCell>
         <UserObject label="syslog-server-ca.pem&#xa;syslog-client-cert.pem&#xa;syslog-client-key.pem" id="aFlX7W3WC5Dv7D4lStiv-30">
           <mxCell style="shape=curlyBracket;html=1;rounded=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=9;" vertex="1" parent="1">
-            <mxGeometry x="273.5" y="2120" width="20" height="40" as="geometry" />
+            <mxGeometry x="273.5" y="2160" width="20" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" target="aFlX7W3WC5Dv7D4lStiv-30" source="aFlX7W3WC5Dv7D4lStiv-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.5" y="2140" as="sourcePoint" />
+            <mxPoint x="230.5" y="2180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="2120" width="20" height="40" as="geometry" />
+          <mxGeometry x="388.5" y="2160" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-32" target="aFlX7W3WC5Dv7D4lStiv-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463.5" y="2140" as="targetPoint" />
+            <mxPoint x="463.5" y="2180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="syslog-server-ca.pem&#xa;syslog-client-cert.pem&#xa;syslog-client-key.pem" id="aFlX7W3WC5Dv7D4lStiv-34">
           <mxCell style="shape=curlyBracket;html=1;rounded=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=9;" vertex="1" parent="1">
-            <mxGeometry x="273.5" y="2200" width="20" height="40" as="geometry" />
+            <mxGeometry x="273.5" y="2240" width="20" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" target="aFlX7W3WC5Dv7D4lStiv-34" source="aFlX7W3WC5Dv7D4lStiv-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.5" y="2220" as="sourcePoint" />
+            <mxPoint x="230.5" y="2260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="2200" width="20" height="40" as="geometry" />
+          <mxGeometry x="388.5" y="2240" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-36" target="aFlX7W3WC5Dv7D4lStiv-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463.5" y="2220" as="targetPoint" />
+            <mxPoint x="463.5" y="2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-4" target="aFlX7W3WC5Dv7D4lStiv-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-44" value="syslog-tls.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2100" width="37.6" height="40" as="geometry" />
+          <mxGeometry x="1350" y="2237" width="37.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-45" value="rsyslog-global" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="2100" width="40" height="40" as="geometry" />
+          <mxGeometry x="1470" y="2237" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-44" target="aFlX7W3WC5Dv7D4lStiv-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-48" value="extserver" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="820" y="2101" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-48" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/etc/ssl/certificates/&lt;/span&gt;extserver" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2241" width="39.43" height="32" as="geometry" />
         </mxCell>
         <UserObject label="syslog-server-ca.pem&#xa;syslog-client-cert.pem&#xa;syslog-client-key.pem" id="aFlX7W3WC5Dv7D4lStiv-57">
           <mxCell style="shape=curlyBracket;html=1;rounded=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=9;" vertex="1" parent="1">
-            <mxGeometry x="910" y="2100" width="20" height="40" as="geometry" />
+            <mxGeometry x="1160" y="2237" width="20" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-48" target="aFlX7W3WC5Dv7D4lStiv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="2100" width="20" height="40" as="geometry" />
+          <mxGeometry x="1275" y="2237" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlX7W3WC5Dv7D4lStiv-59" target="aFlX7W3WC5Dv7D4lStiv-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-71" value="Auto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#314625,#446E2C);opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="2060" width="222" height="130" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-71" value="Auto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#314625,#446E2C);opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="2160" width="222" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-72" value="Manual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6C312F;opacity=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2060" width="380" height="130" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-73" value="/usr/local/brs/lib/logmgr/config/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1999" width="36.96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-73" value="logmgr/config/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="435.39" y="1962" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-74" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="625.41" y="2000" width="34.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-74" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="556.59" y="1962" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-75" value="/usr/local/brs/lib/logmgr/config/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="2180" width="38.2" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-75" value="logmgr/config/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2022" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-76" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="1470.9" y="2180" width="38.2" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="aFlX7W3WC5Dv7D4lStiv-76" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="1221.2" y="2022" width="46.82" height="38" as="geometry" />
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-81" value="syslog" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=10;image=img/lib/azure2/general/Folder_Blank.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="482" y="2120" width="36.96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
