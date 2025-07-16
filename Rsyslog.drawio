@@ -708,6 +708,12 @@
         <mxCell id="aFlX7W3WC5Dv7D4lStiv-74" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
           <mxGeometry x="556.59" y="1962" width="46.82" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-75" value="logmgr/config/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2022" width="46.82" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="aFlX7W3WC5Dv7D4lStiv-76" value="/etc/rsyslog.d/" style="image;aspect=fixed;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="1221.2" y="2022" width="46.82" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
